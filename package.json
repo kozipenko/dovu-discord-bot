@@ -1,0 +1,13 @@
+{
+  "name": "dovu-discord-bot",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "DOVU Discord Bot",
+  "author": "kozzy",
+  "license": "ISC",
+  "dependencies": {
+    "discord-interactions": "^3.1.0",
+    "node-fetch": "^3.2.3",
+    "raw-body": "^2.5.1"
+  }
+}
