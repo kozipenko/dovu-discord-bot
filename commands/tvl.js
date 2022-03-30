@@ -23,7 +23,7 @@ export default {
       color: 0x0052CC,
       fields: [
         { name: "Price", value: `${data.current_price[currency].toLocaleString('en-US', { useGrouping: false, maximumFractionDigits: 20 })} ${currency.toUpperCase()}` },
-        { name: "Total Value Locked", value: `$${data.total_value_locked[currency].toLocaleString()} ${currency.toUpperCase()}` },
+        { name: "Total Value Locked", value: `${data.total_value_locked[currency].toLocaleString()} ${currency.toUpperCase()}` },
         { name: "Total Amount Staked", value: `${data.total_staking_size.toLocaleString()} DOV` }
       ]
     }
