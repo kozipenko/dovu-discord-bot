@@ -1,7 +1,7 @@
 
 # Dovu Discord Bot
 
-A fully customizable serverless discord bot made for [Dovu](https://dovu.earth) and built on Vercel.
+A serverless discord bot made for [Dovu](https://dovu.earth) and built on Vercel.
 See it in action on the [Dovu Discord](https://discord.gg/y2dbChAD6N).
 
 
